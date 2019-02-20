@@ -2,11 +2,11 @@
     "name": "Random Cena",
     "description": "John Cena may randomly appear at each page click.",
     "icons": {
-		"16": "img/logo_16.png",
-		"48": "img/logo_48.png",
-		"128": "img/logo_128.png"
+		"16": "img/logo_16.jpg",
+		"48": "img/logo_48.jpg",
+		"128": "img/logo_128.jpg"
 	},
-    "version": "0.0.2",
+    "version": "0.0.3",
     "manifest_version": 2,
     "content_scripts": [
         {
